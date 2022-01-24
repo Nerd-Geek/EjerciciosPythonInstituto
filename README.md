@@ -3,7 +3,7 @@
     <img src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 </div>
 
-<p align="center">📝 Ejercicios mandados en clase</p>
+<p>📝 Ejercicios mandados en clase</p>
 
 <ul>
     <li>Primeros programas</li>
@@ -14,4 +14,4 @@
     <li>Objetoss</li>
 </ul>
 
-<p align="center">💖 Autor: Carlos Moreno Luengos</p>
+<p>💖 Autor: Carlos Moreno Luengos</p>
